@@ -1,6 +1,8 @@
-# Hi, I'm Pedro! :D
+# **Hi, I'm Pedro! :D**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ribeiro-328375220/)](https://www.linkedin.com/in/pedro-ribeiro-328375220/)
+<a href="https://www.linkedin.com/in/pedro-ribeiro-328375220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedronkdarck@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+
 ### Ferramentas e Tecnologias
 <div display="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -21,8 +23,8 @@
 </div>
 
   <br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkNightDlc&layout=compact&langs_count=7&theme=dracula)](https://github.com/DarkNightDlc/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkNightDlc&layout=compact&langs_count=7&theme=dracula )](https://github.com/DarkNightDlc/github-readme-stats )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNightDlc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/DarkNightDlc/github-readme-stats)
  ![Snake animation](https://github.com/DarkNightDlc/DarkNightDlc/blob/output/github-contribution-grid-snake.svg)
 <!--
