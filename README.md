@@ -23,9 +23,10 @@
 </div>
 
   <br>
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkNightDlc&layout=compact&langs_count=7&theme=dracula )](https://github.com/DarkNightDlc/github-readme-stats )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNightDlc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/DarkNightDlc/github-readme-stats)
+-->
  ![Snake animation](https://github.com/DarkNightDlc/DarkNightDlc/blob/output/github-contribution-grid-snake.svg)
 <!--
 **DarkNightDlc/DarkNightDlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
