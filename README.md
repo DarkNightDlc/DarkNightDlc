@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/pedro-ribeiro-328375220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedronkdarck@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href = "https://www.codewars.com/users/DarkNightDlc" ><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" target="_blank" height="28" width="120" ></a>
 
 ### Ferramentas e Tecnologias
 <div display="flex">
