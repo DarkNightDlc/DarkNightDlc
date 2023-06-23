@@ -1,4 +1,4 @@
-# **Hi, I'm Pedro! :D**
+# **Ola, sou Pedro Henrique! :D**
 
 <a href="https://www.linkedin.com/in/pedro-ribeiro-328375220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedronkdarck@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
@@ -26,8 +26,21 @@
 </div>
 
   <br>
+  
+### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkNightDlc&layout=compact&langs_count=7&theme=darcula&locale )](https://github.com/DarkNightDlc/github-readme-stats )
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DarkNightDlc&show_icons=true&layout=compact&langs_count=7&theme=darcula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DarkNightDlc&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkNightDlc&show_icons=true" />
+</picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNightDlc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/DarkNightDlc/github-readme-stats)
 
  ![Snake animation](https://github.com/DarkNightDlc/DarkNightDlc/blob/output/github-contribution-grid-snake.svg)
